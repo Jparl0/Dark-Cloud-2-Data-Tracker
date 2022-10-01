@@ -1,0 +1,2 @@
+class PhotIdea < ApplicationRecord
+end
