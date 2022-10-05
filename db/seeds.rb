@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Phot_idea.create(name: "", used_in: 0, chapter: 1, location: "")
+
+
+
+# t.string :name
+#       t.integer :used_in
+#       t.string :chapter
+#       t.string :location

@@ -2,6 +2,7 @@ class CreatePhotIdeas < ActiveRecord::Migration[7.0]
   def change
     create_table :phot_ideas do |t|
       t.string :name
+      t.integer :used_in
       t.string :chapter
       t.string :location
 
