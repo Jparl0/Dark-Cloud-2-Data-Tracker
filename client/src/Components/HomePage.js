@@ -1,4 +1,7 @@
 import React from 'react'
+import ItemsSec from './ItemsSec'
+import RidepodSec from './RidepodSec'
+import WeaponsSec from './WeaponsSec'
 
 function HomePage() {
 
@@ -6,7 +9,26 @@ function HomePage() {
 
     
   return (
-    <div>HomePage</div>
+    <div>
+
+
+      <div>
+        < />
+      </div>
+
+      <div>
+        <ItemsSec />
+      </div>
+
+      <div>
+        <RidepodSec />
+      </div>
+
+      <div>
+        <WeaponsSec />
+      </div>
+
+    </div>
   )
 }
 
