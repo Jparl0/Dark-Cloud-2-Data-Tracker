@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :weapon_modifiers
+  resources :weapons
   resources :invention_ideas
   resources :ideas
   resources :phot_ideas

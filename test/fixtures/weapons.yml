@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attack: 1
+  durable: 1
+  flame: 1
+  chill: 1
+  lightning: 1
+  cyclone: 1
+  smash: 1
+  exorcism: 1
+  beast: 1
+  scale: 1
+
+two:
+  attack: 1
+  durable: 1
+  flame: 1
+  chill: 1
+  lightning: 1
+  cyclone: 1
+  smash: 1
+  exorcism: 1
+  beast: 1
+  scale: 1
